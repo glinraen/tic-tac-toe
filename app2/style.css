@@ -1,0 +1,42 @@
+
+table { 
+  margin: 0 auto;
+  border-radius:10px;
+}
+td {
+  border: 1px solid gray;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  font-size: 8em;
+  box-sizing:border-box;
+}
+
+thead tr td{
+  border-top: none;
+  border-bottom: none;
+}
+
+tfoot tr td{
+  border-top: none;
+  border-bottom: none;
+}
+
+
+#reset{
+  padding: 5px;
+  width: 400px;
+  font-size: 1.5em;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+button {
+  border: 5px gray;
+  background-color: blue;
+  align-self: center;
+}
+
+.cell {
+  
+}
